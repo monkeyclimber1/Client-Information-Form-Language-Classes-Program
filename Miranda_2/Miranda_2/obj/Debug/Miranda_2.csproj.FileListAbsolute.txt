@@ -1,0 +1,10 @@
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\bin\Debug\Miranda_2.exe.config
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\bin\Debug\Miranda_2.exe
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\bin\Debug\Miranda_2.pdb
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\obj\Debug\Miranda_2.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\obj\Debug\Miranda_2.Form1.resources
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\obj\Debug\Miranda_2.Properties.Resources.resources
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\obj\Debug\Miranda_2.csproj.GenerateResource.cache
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\obj\Debug\Miranda_2.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\obj\Debug\Miranda_2.exe
+C:\Users\Bryan\Desktop\ISM3232\Miranda_2\Miranda_2\obj\Debug\Miranda_2.pdb
